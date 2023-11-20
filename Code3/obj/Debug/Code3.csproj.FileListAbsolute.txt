@@ -1,0 +1,15 @@
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code3\obj\Debug\Code3.csproj.AssemblyReference.cache
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code3\obj\Debug\MainWindow.g.cs
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code3\obj\Debug\App.g.cs
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code3\obj\Debug\Code3_MarkupCompile.cache
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code3\obj\Debug\Code3_MarkupCompile.lref
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code3\bin\Debug\Code3.exe.config
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code3\bin\Debug\Code3.exe
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code3\bin\Debug\Code3.pdb
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code3\obj\Debug\MainWindow.baml
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code3\obj\Debug\Code3.g.resources
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code3\obj\Debug\Code3.Properties.Resources.resources
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code3\obj\Debug\Code3.csproj.GenerateResource.cache
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code3\obj\Debug\Code3.csproj.CoreCompileInputs.cache
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code3\obj\Debug\Code3.exe
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code3\obj\Debug\Code3.pdb

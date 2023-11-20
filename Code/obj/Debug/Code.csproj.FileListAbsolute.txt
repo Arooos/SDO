@@ -1,0 +1,15 @@
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code\obj\Debug\Code.csproj.AssemblyReference.cache
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code\obj\Debug\MainWindow.g.cs
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code\obj\Debug\App.g.cs
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code\obj\Debug\Code_MarkupCompile.cache
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code\obj\Debug\Code_MarkupCompile.lref
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code\bin\Debug\Code.exe.config
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code\bin\Debug\Code.exe
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code\bin\Debug\Code.pdb
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code\obj\Debug\MainWindow.baml
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code\obj\Debug\Code.g.resources
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code\obj\Debug\Code.Properties.Resources.resources
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code\obj\Debug\Code.csproj.GenerateResource.cache
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code\obj\Debug\Code.csproj.CoreCompileInputs.cache
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code\obj\Debug\Code.exe
+C:\Users\N0NamedGuy\Downloads\IDEF0\SystemNet\Code\obj\Debug\Code.pdb
